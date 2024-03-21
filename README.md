@@ -8,7 +8,7 @@
 
 🤝 Open to networking with fellow developers, industry professionals, and mentors to exchange insights, share ideas, and explore potential collaborations.
 
-📧 Feel free to reach out to me via the following:
-	Email: bhoomaahamso@gmail.com
-	Linkedin: https://www.linkedin.com/in/bhoomaahamso-dharamalayenam-041b291a5/
+📧 Feel free to reach out to me via the following:\
+	Email: bhoomaahamso@gmail.com\
+	Linkedin: https://www.linkedin.com/in/bhoomaahamso-dharamalayenam-041b291a5/ \
 	Twitter: https://twitter.com/bhoomaahamso
