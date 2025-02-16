@@ -12,7 +12,7 @@
 🤝 Open to networking with fellow developers, industry professionals, and mentors to exchange insights, share ideas, and explore potential collaborations.
 
 
-- 👨‍💻 All of my projects are available at [https://p.netlify.app/](https://p.netlify.app/)
+- 👨‍💻 All of my projects are available at [site](https://portfolio-kappa-gules-57.vercel.app/)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10XxLuBBuO17xad7OXLb74YuKUK0_Ehs6/view?usp=sharing)
 
